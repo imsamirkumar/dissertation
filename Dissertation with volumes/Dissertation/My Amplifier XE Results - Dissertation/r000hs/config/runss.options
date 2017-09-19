@@ -1,0 +1,94 @@
+-r
+C:\Users\camer\Documents\Visual Studio 2015\Projects\Dissertation with volumes\Dissertation\My Amplifier XE Results - Dissertation\r000hs
+--stack-stitching
+--data-limit-mb=500
+--disk-space-limit=100
+--mrte-type=java,dotnet,python
+--itt-config=openmp
+--itt-config=frame
+--itt-config=task,event,counter
+--stackwalk=offline
+--mrte-mode=auto
+--type=cpu:counters:nostack
+--type=cpu:stack
+--interval=10
+--search-dir
+sym=C:\Users\camer\Documents\Visual Studio 2015\Projects\Dissertation with volumes\Release
+--search-dir
+sym=C:\Users\camer\Documents\Visual Studio 2015\Projects\Dissertation with volumes
+--search-dir
+sym=srv*D:\Realtime Rendering\Semseter 2\Final PROJECT - Deferred Shading\dlls
+--search-dir
+sym=C:/Users\camer\Documents\Visual Studio 2015\Projects\Dissertation with volumes\Dissertation\srv*dll
+--search-dir
+sym=srv*https://msdl.microsoft.com/download/symbols
+--search-dir
+bin=C:\Users\camer\Documents\Visual Studio 2015\Projects\Dissertation with volumes\Release
+--search-dir
+bin=C:\Users\camer\Documents\Visual Studio 2015\Projects\Dissertation with volumes
+--search-dir
+bin=C:/Users\camer\Documents\Visual Studio 2015\Projects\Dissertation with volumes\Dissertation\$(VC_ExecutablePath_x86)
+--search-dir
+bin=C:/Users\camer\Documents\Visual Studio 2015\Projects\Dissertation with volumes\Dissertation\$(WindowsSDK_ExecutablePath)
+--search-dir
+bin=C:/Users\camer\Documents\Visual Studio 2015\Projects\Dissertation with volumes\Dissertation\$(VS_ExecutablePath)
+--search-dir
+bin=C:/Users\camer\Documents\Visual Studio 2015\Projects\Dissertation with volumes\Dissertation\$(MSBuild_ExecutablePath)
+--search-dir
+bin=C:\WINDOWS\SysWow64
+--search-dir
+bin=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Team Tools\Static Analysis Tools\FxCop
+--search-dir
+bin=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\NativeBinaries\x86
+--search-dir
+bin=c:\program files (x86)\microsoft visual studio 14.0\common7\ide
+--search-dir
+bin=C:\Program Files (x86)\CodeXL
+--search-dir
+bin=C:\Program Files (x86)\PC Connectivity Solution
+--search-dir
+bin=C:\ProgramData\Oracle\Java\javapath
+--search-dir
+bin=C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common
+--search-dir
+bin=C:\WINDOWS\system32
+--search-dir
+bin=C:\WINDOWS
+--search-dir
+bin=C:\WINDOWS\System32\Wbem
+--search-dir
+bin=C:\WINDOWS\System32\WindowsPowerShell\v1.0
+--search-dir
+bin=C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86
+--search-dir
+bin=C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64
+--search-dir
+bin=C:\WINDOWS\system32\config\systemprofile\.dnx\bin
+--search-dir
+bin=C:\Program Files\Microsoft DNX\Dnvm
+--search-dir
+bin=C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit
+--search-dir
+bin=C:\Program Files\Microsoft SQL Server\130\Tools\Binn
+--search-dir
+bin=C:\Program Files\Git\cmd
+--search-dir
+bin=C:\Program Files (x86)\NVIDIA Corporation\Cg\bin
+--search-dir
+bin=C:\Program Files (x86)\NVIDIA Corporation\Cg\bin.x64
+--search-dir
+bin=C:\Program Files (x86)\GtkSharp\2.12\bin
+--search-dir
+bin=C:\Program Files\Java\jdk1.8.0_121\bin
+--search-dir
+bin=C:\Program Files (x86)\QuickTime\QTSystem
+--search-dir
+bin=C:\Users\camer\Anaconda3
+--search-dir
+bin=C:\Users\camer\Anaconda3\Scripts
+--search-dir
+bin=C:\Users\camer\Anaconda3\Library\bin
+--search-dir
+bin=C:\Users\camer\AppData\Local\Microsoft\WindowsApps
+--
+C:\Users\camer\Documents\Visual Studio 2015\Projects\Dissertation with volumes\Release\Dissertation.exe

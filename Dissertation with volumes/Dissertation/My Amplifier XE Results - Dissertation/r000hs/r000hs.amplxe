@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <rdmgr>
+  <timestamp type="u64_t">1502156129</timestamp>
+  <hostname>DESKTOP-0A96VP4</hostname>
+  <os>windows</os>
+  <product>Intel® VTune™ Amplifier XE 2017 Update 4</product>
+  <buildNumber type="s32_t">518798</buildNumber>
+  <logicalCPUCount type="s32_t">4</logicalCPUCount>
+  <CPUFrequency type="s64_t">2500000000</CPUFrequency>
+  <CPUFamily type="s32_t">6</CPUFamily>
+  <CPUModel type="s32_t">58</CPUModel>
+  <CPUStepping type="s32_t">9</CPUStepping>
+  <CPUBrandName>       Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz</CPUBrandName>
+  <isa>avx</isa>
+  <collectionTimeBegin type="u64_t">1502156129</collectionTimeBegin>
+  <collectionTimeEnd type="u64_t">1502156148</collectionTimeEnd>
+  <variables>
+   <at>hs</at>
+  </variables>
+ </rdmgr>
+</root>
